@@ -1,4 +1,4 @@
--------------- Lesson - 20 -------------- (16.04.21)
+-------------- Lesson - 20 -------------- (17.04.21)
 #1 -> What is JavaScript ?
         ✅ https://betterprogramming.pub/what-makes-javascript-javascript-b9ab51ad983a
 
@@ -14,8 +14,8 @@
         ✅ JavaScript Engine
               🎁 FireFox -> "SpiderMonkey"
               🎁 Google -> "V8"
-        ✅ Node Js
-        ✅ Deno Js
+        ✅ Node Js -> 2009
+        ✅ Deno Js -> 2020
 
 #4 -> JavaScript vs ECMAScript ?
         JS -> Programming Language
