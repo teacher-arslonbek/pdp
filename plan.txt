@@ -1,0 +1,32 @@
+-------------- Lesson - 21 --------------(20.04.21)
+#1 -> Primative types
+        ✅ string
+        ✅ number
+        ✅ boolean
+        ✅ null
+        ✅ undefined
+#2 -> Reference types
+        ✅ Object
+        ✅ Array
+        ✅ Function
+#3 -> Object type
+        ✅ Dot Notation
+        ✅ Bracket Notation
+#4 -> Array type
+#5 -> Functions
+#6 -> Types of Functions
+
+============== Operators ==============
+#7 -> Arithmetic Operators
+        ✅ Increment
+        ✅ Decrement
+#8 -> Assignment Operators (=)
+#9 -> Comparison Operators
+        ✅ Relational
+        ✅ Equality
+#10 -> Ternary Operator
+#11 -> Logical Operator
+        ✅ && -> And
+        ✅ || -> Or
+        ✅ !  -> Not
+#12 -> Logical Operators with Non-boolean
