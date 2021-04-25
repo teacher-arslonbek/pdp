@@ -1,0 +1,6 @@
+------------- Lesson-24 -------------(27.04.21)
+#1 -> For-in
+#2 -> For-of
+#3 -> Break and Continue
+#4 -> Exercise FizzBuzz
+#5 -> Exercise CountTruthy
