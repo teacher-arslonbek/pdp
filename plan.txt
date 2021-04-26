@@ -2,5 +2,6 @@
 #1 -> For-in
 #2 -> For-of
 #3 -> Break and Continue
-#4 -> Exercise FizzBuzz
-#5 -> Exercise CountTruthy
+#4 -> Exercise FizzBuzz()
+#5 -> Exercise CountTruthy()
+#6 -> Exercise showStarts()
