@@ -1,2 +1,28 @@
 --------------- Lesson-25 ---------------(29.04.21)
-#1 -> 
+#1 -> Array methods
+       ✅ concat
+       ✅ filter
+       ✅ find
+       ✅ findIndex
+       ✅ forEach
+       ✅ map
+       ✅ reduce
+       ✅ pop || push
+       ✅ shift || unshift
+#2 -> String methods
+       ✅ charAt
+       ✅ concat
+       ✅ endsWith | startsWith
+       ✅ repeat
+       ✅ indexOf
+       ✅ includes
+#3 -> Number methods
+       ✅ parseInt
+       ✅ parseFloat
+       ✅ isNaN
+       ✅ toFixed
+#4 -> Algorithm sites
+       ✅ https://leetcode.com/
+       ✅ https://codingbat.com/
+#5 -> Exercise romanToInteger();
+       ✅ https://leetcode.com/problems/roman-to-integer/
