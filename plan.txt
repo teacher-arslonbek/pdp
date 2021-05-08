@@ -1,0 +1,24 @@
+--------------Lesson-27--------------(08.05.21)
+#1 -> Array methods
+       ✅ forEach
+       ✅ map
+       ✅ reduce
+#2 -> String methods
+       ✅ charAt
+       ✅ concat
+       ✅ endsWith | startsWith
+       ✅ repeat
+       ✅ indexOf
+       ✅ includes
+#3 -> Number methods
+       ✅ parseInt
+       ✅ parseFloat
+       ✅ isNaN
+       ✅ toFixed
+
+#4 -> CodingBat Examples
+       1️⃣ firstLast6()
+       2️⃣ sameFirstLast()
+       3️⃣ makePi()
+       4️⃣ commonEnd()
+       5️⃣ You select
