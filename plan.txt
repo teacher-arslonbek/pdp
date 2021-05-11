@@ -1,0 +1,6 @@
+--------------Lesson-28--------------(09.05.21)
+#1 -> DOM (Document Object Model)
+       ✅ document 👍🏻
+       ✅ selectors 👍🏻
+#2 -> AddEventListener 👍🏻
+#3 -> To Do List example
