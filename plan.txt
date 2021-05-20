@@ -1,2 +1,10 @@
 --------------Lesson-30--------------(20.05.21)
-#1 ->
+   ============= Objects =============
+#1 -> Basic example
+#2 -> Factory Functions
+#3 -> Constructor Functions
+        ✅ Camel Notation
+        ✅ Pascal Notation
+#4 -> Dynamic Nature of Objects
+        ✅ delete keyword
+#5 -> Object Properties
