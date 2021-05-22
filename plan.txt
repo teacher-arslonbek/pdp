@@ -1,16 +1,17 @@
 -------------Lesson-31-------------(22.05.21)
 #1 -> Object Properties
-        ✅ Object.keys
-        ✅ Object.values
-        ✅ Object.entities
-        ✅ using condetion in operator
-#2 -> Object cloning
-        ✅ Object.assign
+        ✅ Object.keys 👍🏻
+        ✅ Object.values 👍🏻
+        ✅ Object.entries 👍🏻
+        ✅ using condetion in operator 👍🏻
+#2 -> Object cloning 👍🏻
+        ✅ Object.assign 👍🏻
 #3 -> Math
-        ✅ abs
-        ✅ floor
-        ✅ max
-        ✅ min
-        ✅ sqrt
-        ✅ pow
+        ✅ abs Math.abs(number) => 1
+        ✅ floor  👍🏻
+        ✅ max 👍🏻
+        ✅ min 👍🏻
+        ✅ sqrt 👍🏻
+        ✅ pow 👍🏻
+        ✅ random 👍🏻
 
