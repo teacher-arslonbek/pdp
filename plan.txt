@@ -1,0 +1,8 @@
+--------------Lesson-32--------------(25.05.21)
+============== Functions ==============
+#1 -> Function Declarations vs Expressions
+#2 -> Hoisting -> "Yuk ko'tarish"
+#3 -> Arguments
+#4 -> The Rest Operator
+#5 -> Default Parameters
+#6 -> Getters and Setters
