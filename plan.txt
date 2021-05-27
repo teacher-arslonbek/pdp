@@ -1,0 +1,4 @@
+--------Lesson-33(QUIZ_APP)--------(27.05.21)
+#1 -> create randomNumber function ~ DONE
+#2 -> create randomOperation function ~ DONE
+#3 -> create randomAnswers function ~ DONE
