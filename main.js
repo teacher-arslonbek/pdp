@@ -1,1 +1,4 @@
-console.log("Welcome to Lesson-35");
+var A;
+console.log(A);
+A = 20;
+console.log(A);

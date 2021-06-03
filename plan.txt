@@ -1,4 +1,4 @@
---------------Lesson-35--------------(25.01.06)
+--------------Lesson-35--------------(03.06.21)
 ============== Functions ==============
 #1 -> Function Declarations vs Expressions
 #2 -> Hoisting -> "Yuk ko'tarish"
