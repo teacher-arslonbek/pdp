@@ -1,0 +1,6 @@
+--------------Lesson-36--------------(05.06.21)
+#1 -> Getters and Setters
+#2 -> Try and Catch
+#3 -> Local vs Global Scope
+#4 -> The This Keyword
+#5 -> Changing This Keyword
