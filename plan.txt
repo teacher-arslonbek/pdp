@@ -1,4 +1,4 @@
---------------Lesson-37--------------(05.06.21)
+--------------Lesson-37--------------(08.06.21)
 ============= Asynchronous JavaScript =============
 #1 -> Arrow function
 #2 -> setTimeout
