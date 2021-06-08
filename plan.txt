@@ -1,0 +1,19 @@
+--------------Lesson-37--------------(05.06.21)
+============= Asynchronous JavaScript =============
+#1 -> Arrow function
+#2 -> setTimeout
+#3 -> Patterns
+       ✅ Callbacks
+       ✅ Promises
+       ✅ Async/await
+#4 -> Callbacks
+#5 -> Callback Hell
+#6 -> Named Functions
+#7 -> Promises
+       ✅ Pendding
+       ✅ Resolve
+       ✅ Rejected
+       ✅ than
+       ✅ catch
+#8 -> Replacing Callbacks with Promises
+#9 -> Parallel Promises
