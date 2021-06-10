@@ -1,0 +1,8 @@
+--------------Lesson-38--------------(10.06.21)
+#1 -> Example Callbacks
+#2 -> REST API
+#3 -> Example Promises
+        ✅ https://javascript.info/promise-basics
+#4 -> Parallel Promises
+#5 -> Async/await
+#6 -> Replacing Callbacks with Async/await
