@@ -12,9 +12,3 @@ h1 {
   font-size: 80px;
   font-family: monospace;
 }
-
-.list {
-  display: flex;
-  list-style-type: none;
-  
-}

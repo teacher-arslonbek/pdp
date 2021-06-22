@@ -1,5 +1,11 @@
---------------Lesson-40--------------(14.06.21)
-#1 -> Async and Await
-#2 -> Try and catch
-#3 -> getFruit example
-#4 -> fetch request example with async | await
+--------------Lesson-41--------------(22.06.21)
+#1 -> Let vs Const
+#2 -> Objects
+#3 -> this
+#4 -> Arrow functions
+#5 -> Arrow functions and this
+#6 -> Object Destructoring
+#7 -> Spread
+#8 -> Classes
+#8 -> Inheritance
+#9 -> Modules
