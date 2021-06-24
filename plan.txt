@@ -1,0 +1,21 @@
+------------- Lesson-42 -------------(24.06.21)
+#1 -> What is React Js
+        ✅ https://reactjs.org/
+        ✅ npm trands -> React vs Angular vs Vue
+        ✅ Component
+        ✅ Component example: kun.uz
+        ✅ Virtual Dom (VDOM) vs Real Dom (DOM)
+        ✅ React => "reacts to state changes"
+#2 -> Framework vs Library
+        ✅ Framework example: Angular and Vue
+        ✅ Library example: React
+#3 -> Setup
+        ✅ node js install
+        ✅ npm i -g create-react-app
+        ✅ install vscode
+        ✅ install vscode extension:
+              ✅ Prettier
+              ✅ Simple react snippets
+#4 -> Create our first react app
+        ✅ Explain the entire file structure
+        ✅ Hello World
