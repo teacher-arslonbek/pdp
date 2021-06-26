@@ -1,0 +1,18 @@
+------------ Lesson-43 ------------(26.06.21)
+#1 -> Create our first react app
+        ✅ Explain the entire file structure
+        ✅ Hello World
+#2 -> Modules
+#3 -> Class methods
+#4 -> files structure
+#5 -> JSX expression
+#6 -> Custom config
+#7 -> Explain list
+        ✅ Components
+        ✅ Tables
+        ✅ Forms
+        ✅ Routing
+        ✅ HTTP Services
+        ✅ Auth
+        ✅ Deployments
+        ✅ Advanced react
