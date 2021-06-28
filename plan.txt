@@ -1,0 +1,22 @@
+------------- Lesson-44 -------------(29.06.21)
+======== Components ========
+#1 -> Explain components section
+#2 -> Create counter-app
+#3 -> Install bootstrap
+#4 -> Create first component
+       ✅ simple react snippets extension using
+#5 -> Embedding Expressions
+       ✅ React.createElement()
+       ✅ Return syntax
+       ✅ React.Fragment
+#6 -> JavaScript Expressions
+       ✅ Using variables with JSX
+       ✅ crete formatCount() method
+       ✅ destructuring
+#7 -> Setting Attributes
+       ✅ using img tag src attribute
+       ✅ using style attribute
+#8 -> Rendering Classes Dynamically
+       ✅ using vscode refactor method
+
+======== 🏠 Checking Homeworks 🏠 ========
